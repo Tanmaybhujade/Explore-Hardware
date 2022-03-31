@@ -1,4 +1,4 @@
-#include <Servo.h>   .
+#include <Servo.h>   
 Servo servo;     
 int trigPin = 5;    
 int echoPin = 6;   
